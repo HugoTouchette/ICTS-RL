@@ -6,7 +6,7 @@ git clone https://github.com/HugoTouchette/ICTS-RL
 To update directory as more material will be added:
 git pull
 
-To git push is allowed to the repository.
+Note: No git push allowed to the repository.
 
 Enjoy the course!
 
